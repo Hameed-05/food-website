@@ -90,7 +90,7 @@ h2{
 }
 
 .more #section{
-    /* background: linear-gradient(to right, #662d8c,#ed1e79); */
+    background: linear-gradient(to right, #662d8c,#ed1e79);
     padding: 25px;
     border: none;
     border-radius: 15px;
