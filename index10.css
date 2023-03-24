@@ -24,7 +24,7 @@ button{
     position: fixed;
     top: 120px;
     left: 50px;
-    /* background: linear-gradient(#12c2e9, #c471ed, #f64f59); */
+    background: linear-gradient(#12c2e9, #c471ed, #f64f59);
     color: white;
     border: none;
     padding: 10px;
