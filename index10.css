@@ -57,7 +57,7 @@ button{
     align-items: center;
     border-color: indianred;
     color: wheat;
-    /* background: linear-gradient(to right, #662d8c,#ed1e79); */
+    background: linear-gradient(to right, #662d8c,#ed1e79);
     border-radius: 15px;
 }
 input{
